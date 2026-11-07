@@ -24,4 +24,4 @@ game restarts, and live-refreshes quantities while you play.
 - rescan
 - only works in single player, if you connect to online server > restart game
 
-![Screenshot](images/valheimt.jpeg)
+![Screenshot](images/valheim.jpg)
